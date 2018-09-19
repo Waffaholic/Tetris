@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Sep 2018 20:01:03 at https://tetris.com/play-tetris/?utm_source=top_nav_link&utm_medium=webnav&utm_campaign=playNow_btm_tst&utm_content=text_play_now +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tetris.com/play-tetris/?utm_source=top_nav_link&utm_medium=webnav&utm_campaign=playNow_btm_tst&utm_content=text_play_now -O1 "C:\My Web Sites\Tetris" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:01:20	Error: 	"Not Found" (404) at link https://tetris.com/assets/images/lightbox/loading.gif (from https://tetris.com/assets/css/style.css?v=6)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 32 links scanned, 30 files written (1041169 bytes overall) [642548 bytes received at 37796 bytes/sec], 606588 bytes transferred using HTTP compression in 9 files, ratio 30%, 4.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
